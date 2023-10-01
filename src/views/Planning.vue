@@ -4,6 +4,11 @@
 
 <template>
   <main class="container-fluid">
+    <h3>React vite template</h3>
+    <p>A generic name i.e. react-vite</p>
+    <p>Project is created with, npm create vite@latest react-vite -- --template react, -- -- has to use for npm>7</p>
+    <p>Installed react-boostrap, boostrap, saas for css library</p>
+
     <h3>Data Structure and Algorithm</h3>
     <p><a href="https://www.youtube.com/watch?v=-b2lciNd2L4" target="_blank">Binary Tree Traversals (Inorder, Preorder and Postorder)</a></p>
     <p><a href="https://www.youtube.com/watch?v=PoBGyrIWisE" target="_blank">Construct Binary Tree from Preorder and Inorder Traversal</a></p>

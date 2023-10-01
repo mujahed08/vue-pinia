@@ -6,7 +6,7 @@ import { storeToRefs } from 'pinia';
 const store = useNoteStore()
 const { notes } = storeToRefs(store) 
 
-store.callGetNotesAPI()
+store.getNotesFromCipher()
 
 </script>
 
@@ -19,7 +19,7 @@ store.callGetNotesAPI()
                 <div class="card-body">
                     <h5 class="card-title">{{ item.title }}</h5>
                     <div class="col">
-                        <p>{{ item.content }}</p>
+                        <p class="pre-formatted">{{ item.content }}</p>
                     </div>
                 </div>
             </div>
@@ -27,3 +27,8 @@ store.callGetNotesAPI()
     </div>
   </main>
 </template>
+<style>
+.pre-formatted {
+  white-space: pre;
+}
+</style>
