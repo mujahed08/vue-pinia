@@ -13,6 +13,7 @@
     <p><a href="https://www.youtube.com/watch?v=-b2lciNd2L4" target="_blank">Binary Tree Traversals (Inorder, Preorder and Postorder)</a></p>
     <p><a href="https://www.youtube.com/watch?v=PoBGyrIWisE" target="_blank">Construct Binary Tree from Preorder and Inorder Traversal</a></p>
     <p><a href="https://www.youtube.com/watch?v=zDlTxrEwxvg" target="_blank">Array representation of Binary Tree</a></p>
+    <p><a href="https://www.youtube.com/watch?v=NEtwJASLU8Q" target="_blank">Max Heap Insertion and Deletion | Heap Tree Insertion and Deletion</a></p>
     <p><a href="https://www.youtube.com/watch?v=EjVHtpWkIho" target="_blank">Kruskals Algorithm for Minimum Spanning Tree</a></p>
     <p>Learn Graphs, Trees data structure and representation</p>
     <p>Learn various algorithm for searching, sorting, trees and graph traversal</p>

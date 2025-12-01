@@ -15,6 +15,9 @@ import { RouterLink } from "vue-router";
             <li class="nav-item">
                 <RouterLink to="/password" active-class="active" class="nav-link">Password</RouterLink>
             </li>
+            <li class="nav-item">
+                <RouterLink to="/subjects" active-class="active" class="nav-link">Subject</RouterLink>
+            </li>
             
             <!-- <li class="nav-item">
                 <a class="nav-link disabled">Disabled</a>

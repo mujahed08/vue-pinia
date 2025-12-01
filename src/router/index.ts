@@ -26,6 +26,11 @@ const router = createRouter({
       path: "/brute-force-algorithm",
       name:"bruteForceAlgorithm",
       component: BruteForceAlgorithm
+    },
+    {
+      path: "/subjects",
+      name: "subjects",
+      component: () => import("../views/Subject.vue"),
     }
   ],
 });
